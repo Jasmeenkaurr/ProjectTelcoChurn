@@ -1,0 +1,5 @@
+- Create a repository on GitHub.
+- Clone the repository to local machines.
+- Begin adding project files.
+- Invite team members to join the repository.
+- Review code through pull requests.
